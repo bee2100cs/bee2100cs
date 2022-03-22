@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bryan Muchai from Nairobi, Kenya
-- 👀 I’m interested in python, data science, machine learningand AI
-- 🌱 I’m currently learning machine learning using python
-- 💞️ I’m looking to collaborate on any python projects to challenge my skills
+- 👀 I’m interested in python, data science, and Web3.0
+- 🌱 I’m currently learning web development using javascript, python, and solidity
+- 💞️ I’m looking to collaborate on any python and web3 projects to challenge my skills
 - 📫 How to reach me on email: bee@2100cs@gmail.com
