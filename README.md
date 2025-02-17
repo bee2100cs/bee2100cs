@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on web3 projects to challenge my skills and develop my career as a blockchain developer
 - 📫 How to reach me:
 -   Email: bee2100cs@gmail.com
--   Twitter: https://twitter.com/kushoto_dev
+-   Twitter: https://twitter.com/0xkushoto
